@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-
 /**
  * infinite_while - creates an infinite loop to make the program hang
  * Return: 0
@@ -14,7 +13,6 @@ int infinite_while(void)
 	}
 	return (0);
 }
-
 /**
  * main - creates 5 zombie processes
  * Return: 0
